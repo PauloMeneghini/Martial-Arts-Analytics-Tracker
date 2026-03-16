@@ -11,7 +11,7 @@ app = Dash(__name__)
 
 app.layout = html.Div(style={'fontFamily': 'Arial, sans-serif', 'padding': '20px'}, children=[
     
-    html.H1("Muay Thai Performance Dashboard 🥊", style={'textAlign': 'center'}),
+    html.H1("Muay Thai Performance Dashboard", style={'textAlign': 'center'}),
     
     html.P("Select a training type to filter the metrics:", style={'textAlign': 'center'}),
     
