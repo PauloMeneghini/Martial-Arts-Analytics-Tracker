@@ -30,7 +30,7 @@ An interactive performance dashboard for tracking Muay Thai training sessions, b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Martial-Arts-Analytics-Tracker.git
+https://github.com/PauloMeneghini/Martial-Arts-Analytics-Tracker.git
 cd Martial-Arts-Analytics-Tracker
 ```
 
